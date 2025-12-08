@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "more-itertools>=10.8.0",
     "python-ranges>=1.2.2",
+    "scipy>=1.16.3",
 ]
 
 [tool.pyrefly]
